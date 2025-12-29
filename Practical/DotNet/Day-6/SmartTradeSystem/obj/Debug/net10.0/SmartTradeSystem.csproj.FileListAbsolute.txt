@@ -1,0 +1,15 @@
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\SmartTradeSystem\bin\Debug\net10.0\SmartTradeSystem.exe
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\SmartTradeSystem\bin\Debug\net10.0\SmartTradeSystem.deps.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\SmartTradeSystem\bin\Debug\net10.0\SmartTradeSystem.runtimeconfig.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\SmartTradeSystem\bin\Debug\net10.0\SmartTradeSystem.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\SmartTradeSystem\bin\Debug\net10.0\SmartTradeSystem.pdb
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\SmartTradeSystem\obj\Debug\net10.0\SmartTradeSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\SmartTradeSystem\obj\Debug\net10.0\SmartTradeSystem.AssemblyInfoInputs.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\SmartTradeSystem\obj\Debug\net10.0\SmartTradeSystem.AssemblyInfo.cs
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\SmartTradeSystem\obj\Debug\net10.0\SmartTradeSystem.csproj.CoreCompileInputs.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\SmartTradeSystem\obj\Debug\net10.0\SmartTradeSystem.sourcelink.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\SmartTradeSystem\obj\Debug\net10.0\SmartTradeSystem.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\SmartTradeSystem\obj\Debug\net10.0\refint\SmartTradeSystem.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\SmartTradeSystem\obj\Debug\net10.0\SmartTradeSystem.pdb
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\SmartTradeSystem\obj\Debug\net10.0\SmartTradeSystem.genruntimeconfig.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\SmartTradeSystem\obj\Debug\net10.0\ref\SmartTradeSystem.dll

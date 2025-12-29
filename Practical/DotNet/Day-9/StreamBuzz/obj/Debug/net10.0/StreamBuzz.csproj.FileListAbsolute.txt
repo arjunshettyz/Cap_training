@@ -1,0 +1,15 @@
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\StreamBuzz\bin\Debug\net10.0\StreamBuzz.exe
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\StreamBuzz\bin\Debug\net10.0\StreamBuzz.deps.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\StreamBuzz\bin\Debug\net10.0\StreamBuzz.runtimeconfig.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\StreamBuzz\bin\Debug\net10.0\StreamBuzz.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\StreamBuzz\bin\Debug\net10.0\StreamBuzz.pdb
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\StreamBuzz\obj\Debug\net10.0\StreamBuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\StreamBuzz\obj\Debug\net10.0\StreamBuzz.AssemblyInfoInputs.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\StreamBuzz\obj\Debug\net10.0\StreamBuzz.AssemblyInfo.cs
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\StreamBuzz\obj\Debug\net10.0\StreamBuzz.csproj.CoreCompileInputs.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\StreamBuzz\obj\Debug\net10.0\StreamBuzz.sourcelink.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\StreamBuzz\obj\Debug\net10.0\StreamBuzz.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\StreamBuzz\obj\Debug\net10.0\refint\StreamBuzz.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\StreamBuzz\obj\Debug\net10.0\StreamBuzz.pdb
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\StreamBuzz\obj\Debug\net10.0\StreamBuzz.genruntimeconfig.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\StreamBuzz\obj\Debug\net10.0\ref\StreamBuzz.dll

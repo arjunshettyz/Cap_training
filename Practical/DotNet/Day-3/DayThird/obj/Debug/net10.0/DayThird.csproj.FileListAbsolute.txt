@@ -1,0 +1,15 @@
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-3\DayThird\bin\Debug\net10.0\DayThird.exe
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-3\DayThird\bin\Debug\net10.0\DayThird.deps.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-3\DayThird\bin\Debug\net10.0\DayThird.runtimeconfig.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-3\DayThird\bin\Debug\net10.0\DayThird.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-3\DayThird\bin\Debug\net10.0\DayThird.pdb
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-3\DayThird\obj\Debug\net10.0\DayThird.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-3\DayThird\obj\Debug\net10.0\DayThird.AssemblyInfoInputs.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-3\DayThird\obj\Debug\net10.0\DayThird.AssemblyInfo.cs
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-3\DayThird\obj\Debug\net10.0\DayThird.csproj.CoreCompileInputs.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-3\DayThird\obj\Debug\net10.0\DayThird.sourcelink.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-3\DayThird\obj\Debug\net10.0\DayThird.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-3\DayThird\obj\Debug\net10.0\refint\DayThird.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-3\DayThird\obj\Debug\net10.0\DayThird.pdb
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-3\DayThird\obj\Debug\net10.0\DayThird.genruntimeconfig.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-3\DayThird\obj\Debug\net10.0\ref\DayThird.dll

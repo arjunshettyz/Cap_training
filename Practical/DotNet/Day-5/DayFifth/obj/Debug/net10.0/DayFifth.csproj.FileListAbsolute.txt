@@ -1,0 +1,15 @@
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-5\DayFifth\bin\Debug\net10.0\DayFifth.exe
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-5\DayFifth\bin\Debug\net10.0\DayFifth.deps.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-5\DayFifth\bin\Debug\net10.0\DayFifth.runtimeconfig.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-5\DayFifth\bin\Debug\net10.0\DayFifth.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-5\DayFifth\bin\Debug\net10.0\DayFifth.pdb
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-5\DayFifth\obj\Debug\net10.0\DayFifth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-5\DayFifth\obj\Debug\net10.0\DayFifth.AssemblyInfoInputs.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-5\DayFifth\obj\Debug\net10.0\DayFifth.AssemblyInfo.cs
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-5\DayFifth\obj\Debug\net10.0\DayFifth.csproj.CoreCompileInputs.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-5\DayFifth\obj\Debug\net10.0\DayFifth.sourcelink.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-5\DayFifth\obj\Debug\net10.0\DayFifth.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-5\DayFifth\obj\Debug\net10.0\refint\DayFifth.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-5\DayFifth\obj\Debug\net10.0\DayFifth.pdb
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-5\DayFifth\obj\Debug\net10.0\DayFifth.genruntimeconfig.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-5\DayFifth\obj\Debug\net10.0\ref\DayFifth.dll

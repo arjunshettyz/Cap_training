@@ -1,0 +1,15 @@
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\DayForth\bin\Debug\net10.0\DayForth.exe
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\DayForth\bin\Debug\net10.0\DayForth.deps.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\DayForth\bin\Debug\net10.0\DayForth.runtimeconfig.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\DayForth\bin\Debug\net10.0\DayForth.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\DayForth\bin\Debug\net10.0\DayForth.pdb
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\DayForth\obj\Debug\net10.0\DayForth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\DayForth\obj\Debug\net10.0\DayForth.AssemblyInfoInputs.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\DayForth\obj\Debug\net10.0\DayForth.AssemblyInfo.cs
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\DayForth\obj\Debug\net10.0\DayForth.csproj.CoreCompileInputs.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\DayForth\obj\Debug\net10.0\DayForth.sourcelink.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\DayForth\obj\Debug\net10.0\DayForth.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\DayForth\obj\Debug\net10.0\refint\DayForth.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\DayForth\obj\Debug\net10.0\DayForth.pdb
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\DayForth\obj\Debug\net10.0\DayForth.genruntimeconfig.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\DayForth\obj\Debug\net10.0\ref\DayForth.dll

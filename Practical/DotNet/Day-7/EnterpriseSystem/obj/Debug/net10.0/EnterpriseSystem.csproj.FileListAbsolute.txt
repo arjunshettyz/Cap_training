@@ -1,0 +1,15 @@
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\EnterpriseSystem\bin\Debug\net10.0\EnterpriseSystem.exe
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\EnterpriseSystem\bin\Debug\net10.0\EnterpriseSystem.deps.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\EnterpriseSystem\bin\Debug\net10.0\EnterpriseSystem.runtimeconfig.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\EnterpriseSystem\bin\Debug\net10.0\EnterpriseSystem.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\EnterpriseSystem\bin\Debug\net10.0\EnterpriseSystem.pdb
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\EnterpriseSystem\obj\Debug\net10.0\EnterpriseSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\EnterpriseSystem\obj\Debug\net10.0\EnterpriseSystem.AssemblyInfoInputs.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\EnterpriseSystem\obj\Debug\net10.0\EnterpriseSystem.AssemblyInfo.cs
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\EnterpriseSystem\obj\Debug\net10.0\EnterpriseSystem.csproj.CoreCompileInputs.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\EnterpriseSystem\obj\Debug\net10.0\EnterpriseSystem.sourcelink.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\EnterpriseSystem\obj\Debug\net10.0\EnterpriseSystem.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\EnterpriseSystem\obj\Debug\net10.0\refint\EnterpriseSystem.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\EnterpriseSystem\obj\Debug\net10.0\EnterpriseSystem.pdb
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\EnterpriseSystem\obj\Debug\net10.0\EnterpriseSystem.genruntimeconfig.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\EnterpriseSystem\obj\Debug\net10.0\ref\EnterpriseSystem.dll

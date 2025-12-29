@@ -1,0 +1,4 @@
+29-12-2025 14:05:18 | DivideByZeroException | Attempted to divide by zero.
+29-12-2025 14:05:34 | FormatException | The input string '500as' was not in a correct format.
+29-12-2025 14:07:49 | DivideByZeroException | Attempted to divide by zero.
+29-12-2025 14:08:20 | InsufficientBalanceException | Insufficient balance for withdraw.

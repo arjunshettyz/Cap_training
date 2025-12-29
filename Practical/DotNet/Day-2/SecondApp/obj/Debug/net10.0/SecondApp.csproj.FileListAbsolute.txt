@@ -1,0 +1,15 @@
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-2\SecondApp\bin\Debug\net10.0\SecondApp.exe
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-2\SecondApp\bin\Debug\net10.0\SecondApp.deps.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-2\SecondApp\bin\Debug\net10.0\SecondApp.runtimeconfig.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-2\SecondApp\bin\Debug\net10.0\SecondApp.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-2\SecondApp\bin\Debug\net10.0\SecondApp.pdb
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-2\SecondApp\obj\Debug\net10.0\SecondApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-2\SecondApp\obj\Debug\net10.0\SecondApp.AssemblyInfoInputs.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-2\SecondApp\obj\Debug\net10.0\SecondApp.AssemblyInfo.cs
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-2\SecondApp\obj\Debug\net10.0\SecondApp.csproj.CoreCompileInputs.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-2\SecondApp\obj\Debug\net10.0\SecondApp.sourcelink.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-2\SecondApp\obj\Debug\net10.0\SecondApp.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-2\SecondApp\obj\Debug\net10.0\refint\SecondApp.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-2\SecondApp\obj\Debug\net10.0\SecondApp.pdb
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-2\SecondApp\obj\Debug\net10.0\SecondApp.genruntimeconfig.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-2\SecondApp\obj\Debug\net10.0\ref\SecondApp.dll

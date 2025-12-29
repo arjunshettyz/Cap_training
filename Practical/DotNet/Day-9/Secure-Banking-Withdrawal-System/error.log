@@ -1,0 +1,8 @@
+29-12-2025 23:49:00 | 1234567890 | InsufficientBalanceException | Error: Insufficient balance for withdraw!
+29-12-2025 23:51:58 | 1234567890 | BankOperationException | System.Exception: Amount Must be Greater Than Zero.
+   at BankingSystem.BankAccount.Withdraw(Decimal amount) in D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\Secure-Banking-Withdrawal-System\BankingSystem.cs:line 41
+29-12-2025 23:54:47 |  | Exception | Error: Invalid Account Number.
+29-12-2025 23:54:47 |  | InsufficientBalanceException | Error: Insufficient balance for withdraw!
+29-12-2025 23:56:07 |  | Exception | Initial Balance Can't be in Negative
+29-12-2025 23:56:57 | 1234567890 | BankOperationException | System.Exception: Amount Must be Greater Than Zero.
+   at BankingSystem.BankAccount.Withdraw(Decimal amount) in D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\Secure-Banking-Withdrawal-System\BankingSystem.cs:line 41

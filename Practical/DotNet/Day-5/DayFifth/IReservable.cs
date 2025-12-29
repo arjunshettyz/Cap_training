@@ -1,0 +1,6 @@
+
+interface IReservable
+{
+    void ReserveItem();
+}
+

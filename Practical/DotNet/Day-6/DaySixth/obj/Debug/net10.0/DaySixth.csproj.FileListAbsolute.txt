@@ -1,0 +1,15 @@
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\DaySixth\bin\Debug\net10.0\DaySixth.exe
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\DaySixth\bin\Debug\net10.0\DaySixth.deps.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\DaySixth\bin\Debug\net10.0\DaySixth.runtimeconfig.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\DaySixth\bin\Debug\net10.0\DaySixth.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\DaySixth\bin\Debug\net10.0\DaySixth.pdb
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\DaySixth\obj\Debug\net10.0\DaySixth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\DaySixth\obj\Debug\net10.0\DaySixth.AssemblyInfoInputs.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\DaySixth\obj\Debug\net10.0\DaySixth.AssemblyInfo.cs
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\DaySixth\obj\Debug\net10.0\DaySixth.csproj.CoreCompileInputs.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\DaySixth\obj\Debug\net10.0\DaySixth.sourcelink.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\DaySixth\obj\Debug\net10.0\DaySixth.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\DaySixth\obj\Debug\net10.0\refint\DaySixth.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\DaySixth\obj\Debug\net10.0\DaySixth.pdb
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\DaySixth\obj\Debug\net10.0\DaySixth.genruntimeconfig.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-6\DaySixth\obj\Debug\net10.0\ref\DaySixth.dll

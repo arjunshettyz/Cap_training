@@ -1,0 +1,15 @@
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\Secure-Banking-Withdrawal-System\bin\Debug\net10.0\Secure-Banking-Withdrawal-System.exe
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\Secure-Banking-Withdrawal-System\bin\Debug\net10.0\Secure-Banking-Withdrawal-System.deps.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\Secure-Banking-Withdrawal-System\bin\Debug\net10.0\Secure-Banking-Withdrawal-System.runtimeconfig.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\Secure-Banking-Withdrawal-System\bin\Debug\net10.0\Secure-Banking-Withdrawal-System.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\Secure-Banking-Withdrawal-System\bin\Debug\net10.0\Secure-Banking-Withdrawal-System.pdb
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\Secure-Banking-Withdrawal-System\obj\Debug\net10.0\Secure-Banking-Withdrawal-System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\Secure-Banking-Withdrawal-System\obj\Debug\net10.0\Secure-Banking-Withdrawal-System.AssemblyInfoInputs.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\Secure-Banking-Withdrawal-System\obj\Debug\net10.0\Secure-Banking-Withdrawal-System.AssemblyInfo.cs
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\Secure-Banking-Withdrawal-System\obj\Debug\net10.0\Secure-Banking-Withdrawal-System.csproj.CoreCompileInputs.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\Secure-Banking-Withdrawal-System\obj\Debug\net10.0\Secure-Banking-Withdrawal-System.sourcelink.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\Secure-Banking-Withdrawal-System\obj\Debug\net10.0\Secure-Banking-Withdrawal-System.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\Secure-Banking-Withdrawal-System\obj\Debug\net10.0\refint\Secure-Banking-Withdrawal-System.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\Secure-Banking-Withdrawal-System\obj\Debug\net10.0\Secure-Banking-Withdrawal-System.pdb
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\Secure-Banking-Withdrawal-System\obj\Debug\net10.0\Secure-Banking-Withdrawal-System.genruntimeconfig.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-9\Secure-Banking-Withdrawal-System\obj\Debug\net10.0\ref\Secure-Banking-Withdrawal-System.dll

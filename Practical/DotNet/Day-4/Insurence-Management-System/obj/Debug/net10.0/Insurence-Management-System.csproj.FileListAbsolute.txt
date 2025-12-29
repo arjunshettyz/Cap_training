@@ -1,0 +1,15 @@
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\Insurence-Management-System\bin\Debug\net10.0\Insurence-Management-System.exe
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\Insurence-Management-System\bin\Debug\net10.0\Insurence-Management-System.deps.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\Insurence-Management-System\bin\Debug\net10.0\Insurence-Management-System.runtimeconfig.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\Insurence-Management-System\bin\Debug\net10.0\Insurence-Management-System.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\Insurence-Management-System\bin\Debug\net10.0\Insurence-Management-System.pdb
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\Insurence-Management-System\obj\Debug\net10.0\Insurence-Management-System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\Insurence-Management-System\obj\Debug\net10.0\Insurence-Management-System.AssemblyInfoInputs.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\Insurence-Management-System\obj\Debug\net10.0\Insurence-Management-System.AssemblyInfo.cs
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\Insurence-Management-System\obj\Debug\net10.0\Insurence-Management-System.csproj.CoreCompileInputs.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\Insurence-Management-System\obj\Debug\net10.0\Insurence-Management-System.sourcelink.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\Insurence-Management-System\obj\Debug\net10.0\Insurence-Management-System.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\Insurence-Management-System\obj\Debug\net10.0\refint\Insurence-Management-System.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\Insurence-Management-System\obj\Debug\net10.0\Insurence-Management-System.pdb
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\Insurence-Management-System\obj\Debug\net10.0\Insurence-Management-System.genruntimeconfig.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-4\Insurence-Management-System\obj\Debug\net10.0\ref\Insurence-Management-System.dll

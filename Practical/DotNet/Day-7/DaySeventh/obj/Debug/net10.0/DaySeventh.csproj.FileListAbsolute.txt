@@ -1,0 +1,15 @@
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\DaySeventh\bin\Debug\net10.0\DaySeventh.exe
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\DaySeventh\bin\Debug\net10.0\DaySeventh.deps.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\DaySeventh\bin\Debug\net10.0\DaySeventh.runtimeconfig.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\DaySeventh\bin\Debug\net10.0\DaySeventh.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\DaySeventh\bin\Debug\net10.0\DaySeventh.pdb
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\DaySeventh\obj\Debug\net10.0\DaySeventh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\DaySeventh\obj\Debug\net10.0\DaySeventh.AssemblyInfoInputs.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\DaySeventh\obj\Debug\net10.0\DaySeventh.AssemblyInfo.cs
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\DaySeventh\obj\Debug\net10.0\DaySeventh.csproj.CoreCompileInputs.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\DaySeventh\obj\Debug\net10.0\DaySeventh.sourcelink.json
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\DaySeventh\obj\Debug\net10.0\DaySeventh.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\DaySeventh\obj\Debug\net10.0\refint\DaySeventh.dll
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\DaySeventh\obj\Debug\net10.0\DaySeventh.pdb
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\DaySeventh\obj\Debug\net10.0\DaySeventh.genruntimeconfig.cache
+D:\Study\Intership\Capgemini\Practical\DotNet\Day-7\DaySeventh\obj\Debug\net10.0\ref\DaySeventh.dll
