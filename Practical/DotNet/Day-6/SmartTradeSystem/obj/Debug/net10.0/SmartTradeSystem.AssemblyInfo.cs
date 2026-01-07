@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartTradeSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63e02858cde1fc19956855a8f3d1327438b88772")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartTradeSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartTradeSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

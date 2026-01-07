@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arjun\\Downloads\\Capgemini-Training-main\\cap_training\\Practical\\DotNet\\Day-4\\Insurence-Management-System\\Insurence-Management-System.csproj",
+      "projectUniqueName": "C:\\Users\\Arjun\\Desktop\\cap_training\\Practical\\DotNet\\Day-4\\Insurence-Management-System\\Insurence-Management-System.csproj",
       "projectName": "Insurence-Management-System",
-      "projectPath": "C:\\Users\\Arjun\\Downloads\\Capgemini-Training-main\\cap_training\\Practical\\DotNet\\Day-4\\Insurence-Management-System\\Insurence-Management-System.csproj",
+      "projectPath": "C:\\Users\\Arjun\\Desktop\\cap_training\\Practical\\DotNet\\Day-4\\Insurence-Management-System\\Insurence-Management-System.csproj",
       "packagesPath": "C:\\Users\\Arjun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arjun\\Downloads\\Capgemini-Training-main\\cap_training\\Practical\\DotNet\\Day-4\\Insurence-Management-System\\obj\\",
+      "outputPath": "C:\\Users\\Arjun\\Desktop\\cap_training\\Practical\\DotNet\\Day-4\\Insurence-Management-System\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Arjun\\AppData\\Roaming\\NuGet\\NuGet.Config"

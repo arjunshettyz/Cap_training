@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arjun\\Downloads\\Capgemini-Training-main\\cap_training\\Practical\\DotNet\\Day-5\\DayFifth\\DayFifth.csproj": {}
+    "C:\\Users\\Arjun\\Desktop\\cap_training\\Practical\\DotNet\\Day-5\\DayFifth\\DayFifth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arjun\\Downloads\\Capgemini-Training-main\\cap_training\\Practical\\DotNet\\Day-5\\DayFifth\\DayFifth.csproj": {
+    "C:\\Users\\Arjun\\Desktop\\cap_training\\Practical\\DotNet\\Day-5\\DayFifth\\DayFifth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arjun\\Downloads\\Capgemini-Training-main\\cap_training\\Practical\\DotNet\\Day-5\\DayFifth\\DayFifth.csproj",
+        "projectUniqueName": "C:\\Users\\Arjun\\Desktop\\cap_training\\Practical\\DotNet\\Day-5\\DayFifth\\DayFifth.csproj",
         "projectName": "DayFifth",
-        "projectPath": "C:\\Users\\Arjun\\Downloads\\Capgemini-Training-main\\cap_training\\Practical\\DotNet\\Day-5\\DayFifth\\DayFifth.csproj",
+        "projectPath": "C:\\Users\\Arjun\\Desktop\\cap_training\\Practical\\DotNet\\Day-5\\DayFifth\\DayFifth.csproj",
         "packagesPath": "C:\\Users\\Arjun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arjun\\Downloads\\Capgemini-Training-main\\cap_training\\Practical\\DotNet\\Day-5\\DayFifth\\obj\\",
+        "outputPath": "C:\\Users\\Arjun\\Desktop\\cap_training\\Practical\\DotNet\\Day-5\\DayFifth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arjun\\AppData\\Roaming\\NuGet\\NuGet.Config"

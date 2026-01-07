@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arjun\\Downloads\\Capgemini-Training-main\\cap_training\\Practical\\DotNet\\Day-1\\FirstApp\\FirstApp.csproj",
+      "projectUniqueName": "C:\\Users\\Arjun\\Desktop\\cap_training\\Practical\\DotNet\\Day-1\\FirstApp\\FirstApp.csproj",
       "projectName": "FirstApp",
-      "projectPath": "C:\\Users\\Arjun\\Downloads\\Capgemini-Training-main\\cap_training\\Practical\\DotNet\\Day-1\\FirstApp\\FirstApp.csproj",
+      "projectPath": "C:\\Users\\Arjun\\Desktop\\cap_training\\Practical\\DotNet\\Day-1\\FirstApp\\FirstApp.csproj",
       "packagesPath": "C:\\Users\\Arjun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arjun\\Downloads\\Capgemini-Training-main\\cap_training\\Practical\\DotNet\\Day-1\\FirstApp\\obj\\",
+      "outputPath": "C:\\Users\\Arjun\\Desktop\\cap_training\\Practical\\DotNet\\Day-1\\FirstApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Arjun\\AppData\\Roaming\\NuGet\\NuGet.Config"

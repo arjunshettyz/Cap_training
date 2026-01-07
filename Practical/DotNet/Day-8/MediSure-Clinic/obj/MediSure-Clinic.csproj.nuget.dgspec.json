@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arjun\\Downloads\\Capgemini-Training-main\\cap_training\\Practical\\DotNet\\Day-8\\MediSure-Clinic\\MediSure-Clinic.csproj": {}
+    "C:\\Users\\Arjun\\Desktop\\cap_training\\Practical\\DotNet\\Day-8\\MediSure-Clinic\\MediSure-Clinic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arjun\\Downloads\\Capgemini-Training-main\\cap_training\\Practical\\DotNet\\Day-8\\MediSure-Clinic\\MediSure-Clinic.csproj": {
+    "C:\\Users\\Arjun\\Desktop\\cap_training\\Practical\\DotNet\\Day-8\\MediSure-Clinic\\MediSure-Clinic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arjun\\Downloads\\Capgemini-Training-main\\cap_training\\Practical\\DotNet\\Day-8\\MediSure-Clinic\\MediSure-Clinic.csproj",
+        "projectUniqueName": "C:\\Users\\Arjun\\Desktop\\cap_training\\Practical\\DotNet\\Day-8\\MediSure-Clinic\\MediSure-Clinic.csproj",
         "projectName": "MediSure-Clinic",
-        "projectPath": "C:\\Users\\Arjun\\Downloads\\Capgemini-Training-main\\cap_training\\Practical\\DotNet\\Day-8\\MediSure-Clinic\\MediSure-Clinic.csproj",
+        "projectPath": "C:\\Users\\Arjun\\Desktop\\cap_training\\Practical\\DotNet\\Day-8\\MediSure-Clinic\\MediSure-Clinic.csproj",
         "packagesPath": "C:\\Users\\Arjun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arjun\\Downloads\\Capgemini-Training-main\\cap_training\\Practical\\DotNet\\Day-8\\MediSure-Clinic\\obj\\",
+        "outputPath": "C:\\Users\\Arjun\\Desktop\\cap_training\\Practical\\DotNet\\Day-8\\MediSure-Clinic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arjun\\AppData\\Roaming\\NuGet\\NuGet.Config"

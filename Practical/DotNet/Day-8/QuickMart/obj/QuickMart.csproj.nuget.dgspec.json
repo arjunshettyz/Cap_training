@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arjun\\Downloads\\Capgemini-Training-main\\cap_training\\Practical\\DotNet\\Day-8\\QuickMart\\QuickMart.csproj": {}
+    "C:\\Users\\Arjun\\Desktop\\cap_training\\Practical\\DotNet\\Day-8\\QuickMart\\QuickMart.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arjun\\Downloads\\Capgemini-Training-main\\cap_training\\Practical\\DotNet\\Day-8\\QuickMart\\QuickMart.csproj": {
+    "C:\\Users\\Arjun\\Desktop\\cap_training\\Practical\\DotNet\\Day-8\\QuickMart\\QuickMart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arjun\\Downloads\\Capgemini-Training-main\\cap_training\\Practical\\DotNet\\Day-8\\QuickMart\\QuickMart.csproj",
+        "projectUniqueName": "C:\\Users\\Arjun\\Desktop\\cap_training\\Practical\\DotNet\\Day-8\\QuickMart\\QuickMart.csproj",
         "projectName": "QuickMart",
-        "projectPath": "C:\\Users\\Arjun\\Downloads\\Capgemini-Training-main\\cap_training\\Practical\\DotNet\\Day-8\\QuickMart\\QuickMart.csproj",
+        "projectPath": "C:\\Users\\Arjun\\Desktop\\cap_training\\Practical\\DotNet\\Day-8\\QuickMart\\QuickMart.csproj",
         "packagesPath": "C:\\Users\\Arjun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arjun\\Downloads\\Capgemini-Training-main\\cap_training\\Practical\\DotNet\\Day-8\\QuickMart\\obj\\",
+        "outputPath": "C:\\Users\\Arjun\\Desktop\\cap_training\\Practical\\DotNet\\Day-8\\QuickMart\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arjun\\AppData\\Roaming\\NuGet\\NuGet.Config"
