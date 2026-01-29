@@ -1,0 +1,15 @@
+C:\Users\Arjun\Desktop\cap_training\TopBrains\customSorting\bin\Debug\net10.0\customSorting.exe
+C:\Users\Arjun\Desktop\cap_training\TopBrains\customSorting\bin\Debug\net10.0\customSorting.deps.json
+C:\Users\Arjun\Desktop\cap_training\TopBrains\customSorting\bin\Debug\net10.0\customSorting.runtimeconfig.json
+C:\Users\Arjun\Desktop\cap_training\TopBrains\customSorting\bin\Debug\net10.0\customSorting.dll
+C:\Users\Arjun\Desktop\cap_training\TopBrains\customSorting\bin\Debug\net10.0\customSorting.pdb
+C:\Users\Arjun\Desktop\cap_training\TopBrains\customSorting\obj\Debug\net10.0\customSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arjun\Desktop\cap_training\TopBrains\customSorting\obj\Debug\net10.0\customSorting.AssemblyInfoInputs.cache
+C:\Users\Arjun\Desktop\cap_training\TopBrains\customSorting\obj\Debug\net10.0\customSorting.AssemblyInfo.cs
+C:\Users\Arjun\Desktop\cap_training\TopBrains\customSorting\obj\Debug\net10.0\customSorting.csproj.CoreCompileInputs.cache
+C:\Users\Arjun\Desktop\cap_training\TopBrains\customSorting\obj\Debug\net10.0\customSorting.sourcelink.json
+C:\Users\Arjun\Desktop\cap_training\TopBrains\customSorting\obj\Debug\net10.0\customSorting.dll
+C:\Users\Arjun\Desktop\cap_training\TopBrains\customSorting\obj\Debug\net10.0\refint\customSorting.dll
+C:\Users\Arjun\Desktop\cap_training\TopBrains\customSorting\obj\Debug\net10.0\customSorting.pdb
+C:\Users\Arjun\Desktop\cap_training\TopBrains\customSorting\obj\Debug\net10.0\customSorting.genruntimeconfig.cache
+C:\Users\Arjun\Desktop\cap_training\TopBrains\customSorting\obj\Debug\net10.0\ref\customSorting.dll
