@@ -1,0 +1,12 @@
+C:\Users\Arjun\Desktop\cap_training\Testing\day1\src\calculator\bin\Debug\net8.0\calculator.deps.json
+C:\Users\Arjun\Desktop\cap_training\Testing\day1\src\calculator\bin\Debug\net8.0\calculator.dll
+C:\Users\Arjun\Desktop\cap_training\Testing\day1\src\calculator\bin\Debug\net8.0\calculator.pdb
+C:\Users\Arjun\Desktop\cap_training\Testing\day1\src\calculator\obj\Debug\net8.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arjun\Desktop\cap_training\Testing\day1\src\calculator\obj\Debug\net8.0\calculator.AssemblyInfoInputs.cache
+C:\Users\Arjun\Desktop\cap_training\Testing\day1\src\calculator\obj\Debug\net8.0\calculator.AssemblyInfo.cs
+C:\Users\Arjun\Desktop\cap_training\Testing\day1\src\calculator\obj\Debug\net8.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Arjun\Desktop\cap_training\Testing\day1\src\calculator\obj\Debug\net8.0\calculator.sourcelink.json
+C:\Users\Arjun\Desktop\cap_training\Testing\day1\src\calculator\obj\Debug\net8.0\calculator.dll
+C:\Users\Arjun\Desktop\cap_training\Testing\day1\src\calculator\obj\Debug\net8.0\refint\calculator.dll
+C:\Users\Arjun\Desktop\cap_training\Testing\day1\src\calculator\obj\Debug\net8.0\calculator.pdb
+C:\Users\Arjun\Desktop\cap_training\Testing\day1\src\calculator\obj\Debug\net8.0\ref\calculator.dll
