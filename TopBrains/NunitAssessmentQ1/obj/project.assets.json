@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arjun\\Desktop\\cap_training\\TopBrains\\DisplayString\\DisplayString.csproj",
-      "projectName": "DisplayString",
-      "projectPath": "C:\\Users\\Arjun\\Desktop\\cap_training\\TopBrains\\DisplayString\\DisplayString.csproj",
+      "projectUniqueName": "C:\\Users\\Arjun\\Desktop\\cap_training\\TopBrains\\NunitAssessmentQ1\\NunitAssessmentQ1.csproj",
+      "projectName": "NunitAssessmentQ1",
+      "projectPath": "C:\\Users\\Arjun\\Desktop\\cap_training\\TopBrains\\NunitAssessmentQ1\\NunitAssessmentQ1.csproj",
       "packagesPath": "C:\\Users\\Arjun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arjun\\Desktop\\cap_training\\TopBrains\\DisplayString\\obj\\",
+      "outputPath": "C:\\Users\\Arjun\\Desktop\\cap_training\\TopBrains\\NunitAssessmentQ1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

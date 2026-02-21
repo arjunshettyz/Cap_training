@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Arjun\\Desktop\\cap_training\\TopBrains\\DisplayString\\DisplayString.csproj": {}
+    "C:\\Users\\Arjun\\Desktop\\cap_training\\TopBrains\\BikeRentalAssignment\\BikeRentalAssignment.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Arjun\\Desktop\\cap_training\\TopBrains\\DisplayString\\DisplayString.csproj": {
+    "C:\\Users\\Arjun\\Desktop\\cap_training\\TopBrains\\BikeRentalAssignment\\BikeRentalAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Arjun\\Desktop\\cap_training\\TopBrains\\DisplayString\\DisplayString.csproj",
-        "projectName": "DisplayString",
-        "projectPath": "c:\\Users\\Arjun\\Desktop\\cap_training\\TopBrains\\DisplayString\\DisplayString.csproj",
+        "projectUniqueName": "C:\\Users\\Arjun\\Desktop\\cap_training\\TopBrains\\BikeRentalAssignment\\BikeRentalAssignment.csproj",
+        "projectName": "BikeRentalAssignment",
+        "projectPath": "C:\\Users\\Arjun\\Desktop\\cap_training\\TopBrains\\BikeRentalAssignment\\BikeRentalAssignment.csproj",
         "packagesPath": "C:\\Users\\Arjun\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Arjun\\Desktop\\cap_training\\TopBrains\\DisplayString\\obj\\",
+        "outputPath": "C:\\Users\\Arjun\\Desktop\\cap_training\\TopBrains\\BikeRentalAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

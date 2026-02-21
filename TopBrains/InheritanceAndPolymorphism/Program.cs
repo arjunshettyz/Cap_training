@@ -103,7 +103,7 @@ class Program
                 employee = new CommissionEmployee(commission, baseSalary);
             }
 
-            // Polymorphism here
+            // Polymorphism 
             total += employee.GetPay();
         }
 
