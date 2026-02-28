@@ -23,7 +23,7 @@
         html, body {
             width: 100%; height: 100%;
             font-family: 'Segoe UI', Arial, sans-serif;
-            background: #e8eaf6;
+            background: #f0fdfa;
             display: flex; align-items: center; justify-content: center;
             min-height: 100vh;
         }
@@ -38,28 +38,28 @@
         }
 
         .btn-print {
-            background: #3730a3; color: #fff;
+            background: #0d9488; color: #fff;
             border: none; border-radius: 8px;
             padding: 10px 28px; font-size: 15px; font-weight: 600;
             cursor: pointer; letter-spacing: .4px;
-            box-shadow: 0 2px 8px rgba(55,48,163,.35);
+            box-shadow: 0 2px 8px rgba(13, 148, 136, .35);
             transition: background .2s;
         }
-        .btn-print:hover { background: #312e81; }
+        .btn-print:hover { background: #0f766e; }
 
         /* ── ID Card ── */
         .id-card {
             width: 420px;
             border-radius: 18px;
             overflow: hidden;
-            box-shadow: 0 8px 32px rgba(55,48,163,.25), 0 1px 4px rgba(0,0,0,.15);
+            box-shadow: 0 8px 32px rgba(13, 148, 136, .25), 0 1px 4px rgba(0,0,0,.15);
             background: #fff;
             font-size: 13px;
         }
 
         /* Header band */
         .card-header {
-            background: linear-gradient(135deg, #3730a3 0%, #6366f1 100%);
+            background: linear-gradient(135deg, #0d9488 0%, #14b8a6 100%);
             padding: 20px 28px 18px;
             display: flex;
             align-items: center;
@@ -93,17 +93,17 @@
             width: 80px; height: 80px;
             border-radius: 10px;
             overflow: hidden;
-            border: 3px solid #e0e7ff;
-            background: #f0f4ff;
+            border: 3px solid #ccfbf1;
+            background: #f0fdfa;
             display: flex; align-items: center; justify-content: center;
         }
         .photo-wrap img { width: 100%; height: 100%; object-fit: cover; }
         .photo-placeholder {
             width: 100%; height: 100%;
             display: flex; align-items: center; justify-content: center;
-            background: #e0e7ff;
+            background: #ccfbf1;
         }
-        .photo-placeholder svg { width: 36px; height: 36px; color: #6366f1; }
+        .photo-placeholder svg { width: 36px; height: 36px; color: #0d9488; }
 
         .details { flex: 1; }
         .student-name {
@@ -116,7 +116,7 @@
             margin-bottom: 5px; align-items: baseline;
         }
         .detail-label {
-            font-size: 10px; font-weight: 600; color: #6366f1;
+            font-size: 10px; font-weight: 600; color: #0d9488;
             text-transform: uppercase; letter-spacing: .5px;
             min-width: 52px;
         }
@@ -126,23 +126,23 @@
 
         /* ID strip */
         .card-id-strip {
-            background: #eef2ff;
-            border-top: 1px solid #e0e7ff;
+            background: #f0fdfa;
+            border-top: 1px solid #ccfbf1;
             padding: 12px 28px;
             display: flex; justify-content: space-between; align-items: center;
         }
         .card-id-strip .id-label {
-            font-size: 10px; color: #6366f1; font-weight: 700;
+            font-size: 10px; color: #0d9488; font-weight: 700;
             text-transform: uppercase; letter-spacing: .8px;
         }
         .card-id-strip .id-value {
-            font-size: 13px; font-weight: 800; color: #3730a3;
+            font-size: 13px; font-weight: 800; color: #0f766e;
             font-family: 'Courier New', monospace; letter-spacing: 2px;
         }
 
         /* Footer band */
         .card-footer {
-            background: linear-gradient(135deg, #3730a3 0%, #6366f1 100%);
+            background: linear-gradient(135deg, #0d9488 0%, #14b8a6 100%);
             padding: 10px 28px;
             text-align: center;
             color: rgba(255,255,255,.8);
