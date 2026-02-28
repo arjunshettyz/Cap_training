@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@(ViewData["Title"] != null ? ViewData["Title"] + " — AdmissionPortal" : "AdmissionPortal")</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['Poppins', 'ui-sans-serif', 'system-ui'] },
+                    colors: {
+                        primary: { 50:'#f0f9ff', 100:'#e0f2fe', 200:'#bae6fd', 300:'#7dd3fc', 400:'#38bdf8', 500:'#0ea5e9', 600:'#0284c7', 700:'#0369a1', 800:'#075985', 900:'#0c3d66' },
+                        accent: { 50:'#f5f3ff', 100:'#ede9fe', 200:'#ddd6fe', 300:'#c4b5fd', 400:'#a78bfa', 500:'#8b5cf6', 600:'#7c3aed', 700:'#6d28d9', 800:'#5b21b6', 900:'#4c1d95' }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        * { font-family: 'Poppins', sans-serif; }
+        body { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); min-height: 100vh; }
+        header, main, footer { position: relative; z-index: 1; }
+        .nav-link { position: relative; padding-bottom: 3px; font-weight: 500; }
+        .nav-link::after { content:''; position:absolute; left:0; bottom:0; width:0; height:2px; background:#fff; transition:width .3s ease; }
+        .nav-link:hover::after { width:100%; }
+        .card { background: #ffffff; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); transition: transform .3s, box-shadow .3s; }
+        .card:hover { transform: translateY(-2px); box-shadow: 0 15px 40px rgba(0,0,0,0.15); }
+        .field-error { display:none; color:#ef4444; font-size:.85rem; margin-top:.35rem; font-weight: 500; }
+        .field-error.show { display:block; }
+        input.invalid { border-color:#ef4444 !important; background-color:#fef2f2 !important; }
+        input, textarea, select { background: #f8fafc; border: 2px solid #e2e8f0; color: #1e293b; transition: border-color .2s, background .2s; }
+        input::placeholder, textarea::placeholder { color: #94a3b8; }
+        input:focus, textarea:focus, select:focus { background: #ffffff; outline: none; border-color: #0ea5e9; box-shadow: 0 0 0 3px rgba(14, 165, 233, 0.1); }
+        label { color: #334155; font-weight: 600; }
+        .file-upload-area { border: 2px dashed #cbd5e1; background: #f8fafc; cursor: pointer; border-radius: 10px; transition: all .3s; transform: none; }
+        .file-upload-area:hover, .file-upload-area.drag-over { border-color: #0ea5e9; background: #f0f9ff; transform: none; }
+        .btn-primary { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; font-weight: 600; border: none; border-radius: 8px; padding: 12px 28px; transition: all .3s; cursor: pointer; }
+        .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 10px 25px rgba(102, 126, 234, 0.4); }
+        input:hover, textarea:hover, select:hover, button:hover, form:hover { transform: none !important; }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col">
+
+    <!-- Navbar -->
+    <header class="sticky top-0 z-50 backdrop-blur-md bg-white/80 border-b border-gray-200 shadow-sm">
+        <div class="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
+            <a asp-controller="Admission" asp-action="Index" class="flex items-center gap-3">
+                <div class="w-10 h-10 rounded-lg bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center text-white font-bold">LP</div>
+                <div>
+                    <div class="font-bold text-gray-800">Admission Portal</div>
+                    <div class="text-xs text-gray-500">LPU</div>
+                </div>
+            </a>
+            <nav class="flex items-center gap-8">
+                <a asp-controller="Admission" asp-action="Index" class="nav-link text-gray-700 hover:text-blue-600 text-sm font-medium">New Application</a>
+                <a asp-controller="Admission" asp-action="List" class="nav-link text-gray-700 hover:text-blue-600 text-sm font-medium">All Students</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Page body -->
+    <main class="flex-1 max-w-6xl mx-auto w-full px-6 py-10">
+        @RenderBody()
+    </main>
+
+    <!-- Footer -->
+    <footer class="backdrop-blur-md bg-white/80 border-t border-gray-200 text-gray-600 text-sm text-center py-6 mt-auto">
+        <div class="max-w-6xl mx-auto">
+            &copy; 2026 Admission Portal &mdash;
+            <a asp-controller="Home" asp-action="Privacy" class="hover:text-blue-600 underline ml-1">Privacy Policy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
